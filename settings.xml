@@ -1,7 +1,7 @@
 <servers>
    <server>
       <id>nexus-releases</id>
-      <username>admin</username>
-      <password>Namo@7494</password>
+      <username>test</username>
+      <password>admin</password>
    </server>
 </servers>
