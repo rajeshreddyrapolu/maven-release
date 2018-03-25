@@ -10,15 +10,6 @@
   </scm>
   
 	<!-- Repository Information -->
-	<!--
-	<distributionManagement>
-		<repository>
-			<id>nexus-releases</id>
-			<!-- http://localhost:8081/repository/<repository-name>
-			<url>http://jenkins.runquiz.in:8081/artifactory/libs-snapshot</url>
-		</repository>
-	</distributionManagement>
-	-->
 	<distributionManagement>
 		<snapshotRepository>
 			<id>nexus-releases</id>
